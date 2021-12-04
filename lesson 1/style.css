@@ -1,0 +1,9 @@
+.all{
+    display:flex;
+}
+.in_progress{
+    width: 900px;
+}
+.planned{
+    width: 900px;
+}
